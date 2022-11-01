@@ -8,7 +8,8 @@
     "build": "rimraf ./build && tsc",
     "start": "npm run build && node build/index.js",
     "lint": "eslint --fix",
-    "format": "prettier --write"
+    "format": "prettier --write",
+    "prepare": "husky install"
   },
   "keywords": [],
   "author": "",
