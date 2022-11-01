@@ -1,8 +1,7 @@
 {
-  "name": "astrology_by_guruji_server",
+  "name": "typescript-express-starter",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "dev": "nodemon",
     "build": "rimraf ./build && tsc",
